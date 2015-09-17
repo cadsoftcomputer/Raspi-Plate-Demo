@@ -1,0 +1,6 @@
+cmp is the Top copper
+sol is the Bottom copper
+plc is the Top Silkscreen
+stc is the Top stop mask
+sts is the Bottom Stop mask
+drd is the Drill file

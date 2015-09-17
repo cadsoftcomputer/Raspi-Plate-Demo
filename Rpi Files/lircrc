@@ -1,0 +1,36 @@
+begin
+    button = KEY_POWER
+    prog = myprogram
+    config = power
+    repeat = 2
+end
+begin
+    button = KEY_FORWARD
+    prog = myprogram
+    config = forward
+    repeat = 2
+end
+begin
+    button = KEY_BACK
+    prog = myprogram
+    config = back
+    repeat = 2
+end
+begin
+    button = KEY_LEFT
+    prog = myprogram
+    config = left
+    repeat = 2
+end
+begin
+    button = KEY_RIGHT
+    prog = myprogram
+    config = right
+    repeat = 2
+end
+begin
+    button = KEY_FORWARD
+    prog = irexec
+    config = echo "You pressed forward!!"
+    repeat = 2
+end
